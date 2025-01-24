@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+simple Counter app to practice cubit.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; gap: 10px;">
+    <img src="readme/home_1.jpg" alt="splash Screen" width="200">
+    <img src="readme/home_2.jpg"alt="home" width="200">
+</div>
